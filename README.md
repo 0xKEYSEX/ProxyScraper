@@ -3,6 +3,9 @@
 
 ProxyScraper was created to help retrieve functional proxies easily and quickly without having to search and test them 1 by 1 
 
+![Logo](https://i.ibb.co/y6ypfgB/main.png)
+
+
 # How it work ?
 Its operation is very simple, it retrieves the proxies from 3 different sites (other future sites will be implemented) and adds them in an array and test them 1 by 1 all this with multithreading 
 
