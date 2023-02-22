@@ -3,7 +3,7 @@
 
 ProxyScraper was created to help retrieve functional proxies easily and quickly without having to search and test them 1 by 1 
 
-![Logo](https://i.ibb.co/g71fX6g/Screenshot-at-2023-02-21-14-52-41.png)
+![Logo](https://i.ibb.co/sstMLnG/Screenshot-at-2023-02-21-14-55-06.png)
 
 
 # How it work ?
